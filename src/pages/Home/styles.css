@@ -175,6 +175,13 @@ select:focus {
     }
 }
 @media (max-width: 580px) {
+    .main-box {
+        width: 90%;
+    }
+    .form-box {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
     .w50 {
         width: 100%;
         padding: 0;
